@@ -24,13 +24,14 @@ It will help me in:
 
 Given a table Products:
 
-+-------------+---------+
+
 | Column Name | Type    |
-+-------------+---------+
+|-------------|---------|
 | product_id  | int     |
 | low_fats    | enum    |
 | recyclable  | enum    |
-+-------------+---------+
+   
+
 
 **Goal:**  
 Find the product IDs where:
